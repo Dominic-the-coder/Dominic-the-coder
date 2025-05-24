@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hey there 👋, I'm Dominic
+### Fullstack Developer | Data Science
 
-<!--
-**Dominic-the-coder/Dominic-the-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 **Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Languages: JavaScript, Python, PHP, Laravel
+  - Frontend: React, Bootstrap, MUI, HTML, CSS
+  - Backend: Node.js, Express, MongoDB
+  - Other Tools: GitHub, Netlify
+
+---
+
+🎸 **About Me**
+
+🔧 Currently building fullstack apps, scraping data, and solving real-world problems.
+
+🎶 I’m also a musician — when I’m not coding, I’m vibing with my guitar or Digital Audio Workstation (DAW).
+
+🏍️ Car and bike nerd. If it’s loud and fast, I’m in.
+
+⚡ White Monster is my coding fuel (no cap).
+
+🎮 Gamer on the side — let’s squad up sometime.
+
+---
+
+📈 **GitHub Stats**
+
+![Dominic-the-coder's Stats](https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![Dominic-the-coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=radical&hide_border=false)
+
+![Dominic-the-coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&theme=radical&show_icons=true&hide_border=false&layout=compact)
