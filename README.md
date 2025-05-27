@@ -8,7 +8,6 @@
   - Languages: JavaScript, Python, PHP, Laravel
   - Frontend: React, Bootstrap, MUI, HTML, CSS
   - Backend: Node.js, Express
-  - Other Tools: GitHub, Netlify
 
 ---
 
