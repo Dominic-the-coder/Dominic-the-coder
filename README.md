@@ -1,11 +1,11 @@
 ## Hey there 👋, I'm Dominic
-### Fullstack Developer | Data Science
+### Fullstack Web Developer | Data Science | Mobile
 
 ---
 
 💻 **Tech Stack**
 
-  - Languages: JavaScript, Python, PHP, Laravel
+  - Languages: JavaScript, Python, PHP, Laravel, Kotlin
   - Frontend: React, Bootstrap, MUI, HTML, CSS
   - Backend: Node.js, Express
 
@@ -13,7 +13,7 @@
 
 🎸 **About Me**
 
-🔧 Currently building fullstack apps, scraping data, and solving real-world problems.
+🔧 Currently building fullstack apps, scraping data, mobile application and solving real-world problems.
 
 🎶 I’m also a musician — when I’m not coding, I’m vibing with my guitar or Digital Audio Workstation (DAW).
 
