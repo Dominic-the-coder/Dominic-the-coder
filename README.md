@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=false&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Dominic+%F0%9F%91%8B;Fullstack+Developer;Data+Science+Enthusiast;Mobile+App+Developer;Always+Building+Cool+Stuff." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=false&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Dominic+%F0%9F%91%8B;Fullstack+Developer;Data+Science+Enthusiast;Mobile+App+Developer;Always+Building+Cool+Stuff." />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominic-the-coder&label=Profile+Views&color=0e75b6&style=flat" alt="views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominic-the-coder&label=Profile+Views&color=7aa2f7&style=flat" alt="views"/> </p>
 
 ---
 
