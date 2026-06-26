@@ -54,39 +54,24 @@ Focus:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dominic-the-coder&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dominic-the-coder&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dominic-the-coder&theme=tokyonight&utcOffset=8" width="49%" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dominic-the-coder&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dominic-the-coder&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dominic-the-coder&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dominic-the-coder&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dominic-the-coder&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dominic-the-coder&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dominic-the-coder&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -131,4 +116,3 @@ Focus:
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
-```
