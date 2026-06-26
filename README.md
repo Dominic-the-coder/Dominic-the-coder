@@ -1,16 +1,119 @@
-## Hi there 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=false&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Dominic+%F0%9F%91%8B;Fullstack+Developer;Data+Science+Enthusiast;Mobile+App+Developer;Always+Building+Cool+Stuff." />
 
-<!--
-**Dominic-the-coder/Dominic-the-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dominic-the-coder&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```yaml
+Name: Dominic
+Role: Fullstack Developer
+Focus:
+  - Web Development
+  - Mobile Development
+  - Data Science
+Current Status: Building cool things one commit at a time.
+```
+
+* 💻 Fullstack developer passionate about solving real-world problems.
+* 📱 Building Android apps with Kotlin.
+* 🌐 Creating scalable web applications.
+* 📊 Exploring Data Science and automation.
+* 🎵 Loves Listening To Music.
+* 🏍️ Car & bike enthusiast.
+* ⚡ Powered by White Monster.
+* 🎮 Gamer after work hours.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,php,kotlin,java" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,materialui" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,firebase,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dominic-the-coder&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominic-the-coder&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Fun Facts
+
+```text
+🎸 Guitar Player
+🏍️ Motorcycle Enthusiast
+🚗 Loves Performance Cars
+⚡ White Monster = +100 Coding Speed
+🎮 Gaming after debugging
+☕ Coffee is optional. Monster is mandatory.
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://github.com/Dominic-the-coder">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### "Code. Learn. Build. Repeat."
+
+</p>
