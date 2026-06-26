@@ -1,7 +1,8 @@
+````md
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=false&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Dominic+%F0%9F%91%8B;Fullstack+Developer;Data+Science+Enthusiast;Mobile+App+Developer;Always+Building+Cool+Stuff." />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dominic-the-coder&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dominic-the-coder&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -15,14 +16,13 @@ Focus:
   - Web Development
   - Mobile Development
   - Data Science
-Current Status: Building cool things one commit at a time.
-```
+````
 
 * 💻 Fullstack developer passionate about solving real-world problems.
 * 📱 Building Android apps with Kotlin.
 * 🌐 Creating scalable web applications.
 * 📊 Exploring Data Science and automation.
-* 🎵 Loves Listening To Music.
+* 🎵 Loves listening to music.
 * 🏍️ Car & bike enthusiast.
 * ⚡ Powered by White Monster.
 * 🎮 Gamer after work hours.
@@ -34,25 +34,25 @@ Current Status: Building cool things one commit at a time.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,php,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=js,python,php,kotlin,java" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,materialui" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,firebase,postman" />
 </p>
 
 ---
@@ -60,23 +60,12 @@ Current Status: Building cool things one commit at a time.
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dominic-the-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-the-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dominic-the-coder&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominic-the-coder&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,7 +73,7 @@ Current Status: Building cool things one commit at a time.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominic-the-coder&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominic-the-coder&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +83,7 @@ Current Status: Building cool things one commit at a time.
 ```text
 🎸 Guitar Player
 🏍️ Motorcycle Enthusiast
-🚗 Loves Performance Cars
+🚗 Car Enthusiast
 ⚡ White Monster = +100 Coding Speed
 🎮 Gaming after debugging
 ☕ Coffee is optional. Monster is mandatory.
@@ -104,16 +93,27 @@ Current Status: Building cool things one commit at a time.
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://github.com/Dominic-the-coder">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<p align="left">
+  <a href="https://github.com/Dominic-the-coder">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/dominic-fam-55257b32b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:famdominic1218@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### "Code. Learn. Build. Repeat."
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Dominic-the-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+```
